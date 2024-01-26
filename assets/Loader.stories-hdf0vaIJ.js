@@ -1,0 +1,3 @@
+import{L as t}from"./index-M50N3LVc.js";import"./clsx-UwsAJbxu.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";const l={title:"Components/Loader",component:t,parameters:{layout:"centered"},tags:["autodocs"],args:{color:"red",isFullScreen:!1},argTypes:{className:{table:{disable:!0}},color:{control:{type:"text"}}}},e={name:"Loader"};var r,a,o;e.parameters={...e.parameters,docs:{...(r=e.parameters)==null?void 0:r.docs,source:{originalSource:`{
+  name: 'Loader'
+}`,...(o=(a=e.parameters)==null?void 0:a.docs)==null?void 0:o.source}}};const p=["Default"];export{e as Default,p as __namedExportsOrder,l as default};
